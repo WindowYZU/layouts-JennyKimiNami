@@ -31,6 +31,7 @@ public class CustomComponent extends javax.swing.JPanel {
         jTextField1 = new javax.swing.JTextField();
 
         setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        setPreferredSize(new java.awt.Dimension(300, 50));
 
         jLabel1.setText("jLabel1");
 
